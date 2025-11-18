@@ -1,6 +1,4 @@
-> 📝 **Submission for:** Isaii GenAI Internship - Technical Task
-> 📅 **Date:** 28-10-2025
-> 👤 **Candidate:** Manya B A
+
 
 # AI Interview Preparation Roadmap Generator
 
